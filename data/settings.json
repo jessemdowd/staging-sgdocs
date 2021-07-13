@@ -1,15 +1,6 @@
 {
   "sidebar": [
     {
-      "section": "",
-      "topics": [
-        {
-          "title": "Aircall",
-          "slug": "aircall"
-        }
-      ]
-    },
-    {
       "section": "Introduction",
       "topics": [
         {
