@@ -13,6 +13,10 @@
       "section": "Introduction",
       "topics": [
         {
+          "title": "Aircall",
+          "slug": "Aircall"
+        },
+        {
           "title": "Getting started",
           "slug": "getting-started"
         }
